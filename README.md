@@ -1,11 +1,11 @@
-### BecksterScience.github.io
+# Education
+-San Diego State University, B.S. Applied Mathematics 2023
 
-### Education
-hwkkkkkjlekd
-### Work Experience
+-New York University, M.S. Mathematics 2025
+# Work Experience
 kjedkeldkj  qed
-### Awards
+# Awards
 llkdjlqkjdlk  qd
-### References
+# References
 ;ldk;lke;dlk  qed
-### About Me
+# About Me
