@@ -1,5 +1,3 @@
-# BecksterScience.github.io
-
 ### Education
 
 ### Work Experience
