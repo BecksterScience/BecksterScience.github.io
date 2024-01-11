@@ -2,8 +2,8 @@
 
 ### Work Experience
 
-#### Awards
+### Awards
 
-##### References
+### References
 
-###### About Me
+### About Me
