@@ -3,10 +3,8 @@
 
 -San Diego State University, B.S. Applied Mathematics 2023
 # Work Experience
-New York University                                                                                                              
-Grader       
-NYC, NY 
-2023-2024 
+New York University                                                                                         NYC, NY 2023-2024
+Grader         
 • Worked for Courant Institute of Mathematical Sciences by grading for Mathematical Modeling and 
 Calculus courses 
 New York University                                                                                                              
