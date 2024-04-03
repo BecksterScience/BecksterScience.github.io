@@ -1,5 +1,5 @@
 # Education
--New York University, M.S. Mathematics 2025
+-New York University, M.S. Data Science 2026
 
 -San Diego State University, B.S. Applied Mathematics 2023
 # Work Experience
@@ -10,7 +10,7 @@ Calculus courses
 New York University                                                                                                              
 Factotum       
 NYC, NY 
-Present 
+2023 
 • Work for Courant Institute of Mathematical Sciences by assisting the clinical teaching team with various 
 administrative tasks 
 • Write solutions for assessments, typeset handwritten solutions in Latex, and make posts on Brightspace 
@@ -64,28 +64,28 @@ San Diego, CA
 Graduated Magna Cum Laude from San Diego State University, 3.78 GPA
 
 # References 
-Professor Joseph Mahaffy, Ph.D.   
+Professor Emeritus Dennis D.M. O’Leary, Ph.D. (Professional)
+The Salk Institute for Biological Sciences 
+Tel: (858) 453-4100 ext. 1415 
+doleary@salk.edu 
+
+Professor Joseph Mahaffy, Ph.D. (Professional/Educational)
 Department of Mathematics 
 San Diego State University 
 Tel: 619-594-3743 
 jmahaffy@sdsu.edu   
 
-Professor Vadim Ponomarenko, Ph.D. 
+Professor Vadim Ponomarenko, Ph.D. (Professional/Educational)
 Department of Mathematics 
 San Diego State University 
 Tel: (619)-594-6176 
 vponomarenko@sdsu.edu 
 
-Professor Emeritus Dennis D.M. O’Leary, Ph.D. 
-The Salk Institute for Biological Sciences 
-Tel: (858) 453-4100 ext. 1415 
-doleary@salk.edu 
-
-Elizabeth Kozel, District Tutorial Coordinator 
+Elizabeth Kozel, District Tutorial Coordinator (Professional)
 Academic Success Center 
 Southwestern College 
 Tel: (619)-421-6700 ext. 5373 
 ekozel@swccd.edu
 
 # About Me!
-Hello! My name is Evan Beck, it is a pleasure to meet you! Thank you for taking the time to learn more about me, welcome to my website! I recieved my undergraduate degree in Applied Mathematics from San Diego State University in 2023, and I am currently a Mathematics Masters student at Courant Institute, NYU. My goal is to finish my masters degree, and then begin my work as a Data Scientist. My main areas of interest are: Environment, Climate, and Social Justice.
+Hello! My name is Evan Beck, it is a pleasure to meet you! Thank you for taking the time to learn more about me, welcome to my website! I recieved my undergraduate degree in Applied Mathematics from San Diego State University in 2023. I am currently a Data Science Masters student at the Center for Data Science, NYU. My goal is to finish my masters degree, and then begin my work as a Data Scientist. My main areas of interest are: Wildlife Conservation and Climate Science. In my free time, I am an avid fissherman, outdoorsman, and family man! I am the son of two amazing parents, the brother of three amazing siblings including a sister, brother, and dog. I. am also a doggy dad to an amazing pitbull mix rescue! My family and friends, along with my love for our natural world serve as my inspiration. My core values are endless love, acceptence of all, social and political reform, and equality.
