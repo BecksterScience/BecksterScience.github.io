@@ -1,42 +1,42 @@
 # Evan Beck - Resume
 
 ## Education
-**New York University**  *(M.S. Data Science)*  ............................................................. 2026  
+**New York University**  *(M.S. Data Science)*                                               2026  
 - 
 
-**San Diego State University**  *(B.S. Applied Mathematics)*  ......................................... 2023  
+**San Diego State University**  *(B.S. Applied Mathematics)*                              2023  
 - 
 
 ## Work Experience
 
-### **New York University** *(Grader)* ................................................................. NYC, NY 2023-2024  
+### **New York University** *(Grader)*                                                   NYC, NY 2023-2024  
 - Worked for Courant Institute of Mathematical Sciences by grading for Mathematical Modeling and Calculus courses.
 
-### **New York University** *(Factotum)* ....................................................................... NYC, NY 2023  
+### **New York University** *(Factotum)*                                                 NYC, NY 2023  
 - Assisted the clinical teaching team at Courant Institute of Mathematical Sciences with various administrative tasks.
 - Wrote solutions for assessments, typeset handwritten solutions in LaTeX, and made posts on Brightspace.
 - Corresponded with staff and students via MS Teams and email.
 - Managed multiple simultaneous tasks and maintained an organized schedule.
 
-### **San Diego State University** *(Learning/Teaching Assistant)* ........................................ San Diego, CA 2021-2022  
+### **San Diego State University** *(Learning/Teaching Assistant)*                      San Diego, CA 2021-2022  
 - Worked for Dr. Anca Deliu and Dr. Vadim Ponomarenko as a Learning Assistant for Discrete Mathematics.
 - Led tutoring sessions, checked for comprehension, and evaluated student performance.
 - Strengthened understanding of Discrete Mathematics and gained experience in recitation leading.
 
-### **San Diego State University** *(Grader for Dr. Joseph Mahaffy)* ....................................... San Diego, CA Sep 2022 - Dec 2022  
+### **San Diego State University** *(Grader for Dr. Joseph Mahaffy)*                     San Diego, CA Sep 2022 - Dec 2022  
 - Graded homework and coursework for Differential Equations.
 - Developed grading rubrics and ensured a fair and thorough grading system.
 - Strengthened expertise in Ordinary Differential Equations with meticulous attention to detail.
 
-### **San Diego State University** *(Math Tutor - SDSU Math Center)* ..................................... San Diego, CA 2021-2022  
+### **San Diego State University** *(Math Tutor - SDSU Math Center)*                    San Diego, CA 2021-2022  
 - Led one-on-one and group tutoring sessions, assisting students with exam preparation and coursework.
 
-### **Southwestern College** *(Math & English Tutor - Academic Success Center)* ......................... San Diego, CA 2016-2023  
+### **Southwestern College** *(Math & English Tutor - Academic Success Center)*       San Diego, CA 2016-2023  
 - Conducted tutoring sessions for individual and group settings.
 - Trained to assist students with mental and physical disabilities.
 - Identified and accommodated diverse learning needs.
 
-### **Self Employed** *(Tutoring with Evan - Founder)* .................................................... San Diego, CA 2021-2022  
+### **Self Employed** *(Tutoring with Evan - Founder)*                                   San Diego, CA 2021-2022  
 - Created and managed a tutoring business, serving students aged 5-60.
 - Conducted virtual tutoring via Zoom, scheduling approximately 15 weekly appointments.
 - Gained experience in marketing, customer service, and bookkeeping.
